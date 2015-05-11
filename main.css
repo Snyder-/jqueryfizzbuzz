@@ -1,0 +1,34 @@
+.burn {
+  border: dashed;
+  background: blue;
+  color: white;
+}
+
+.long {
+  float: left;
+  height: 4.5em;
+  width: 4.5em;
+  margin: .5em;
+  padding-top: 1em;
+  border: dashed antiquewhite;
+  text-align: center;
+  background: #FFF2DE;
+}
+
+button {
+  height: 50px;
+  width: 400px;
+  background: #BDDEFF;
+  color: black;
+  font-weight: bold;
+  font-size: 12pt;
+  margin: 10px;
+}
+
+body {
+  background: #FFD391;
+}
+
+.wrapper {
+  padding: 20px 100px 300px 100px;
+}
